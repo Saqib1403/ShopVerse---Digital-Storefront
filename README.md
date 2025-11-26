@@ -1,4 +1,4 @@
-# 🛍️ ShopVerse - Digital Storefront (Frontend UI)
+# 🛍️ ShopVerse - Digital Storefront
 
 ShopVerse is a modern and responsive eCommerce frontend UI built with **React**.  
 It includes clean UI components, product previews, cart layout, and responsive pages — built as a prototype to simulate a real online store experience.
